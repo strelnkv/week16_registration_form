@@ -1,0 +1,29 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.form {
+  padding: 20px 40px;
+  background-color: #fff2f2;
+  width: fit-content;
+}
+.form__input,
+select,
+button {
+  border-radius: 16px;
+  padding-top: 7px;
+  padding-left: 7px;
+  padding-bottom: 7px;
+  margin-top: 10px;
+}
+
+.selections {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.button {
+  margin-top: 20px;
+}
+button {
+  padding: 7px 20px;
+}
